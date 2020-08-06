@@ -397,7 +397,7 @@ h4 {
 }
 
 .left{
-	background: url("/Users/flornakasone/Desktop/proyecto/imagenes/paul-hanaoka-HbyYFFokvm0-unsplash.jpg") no-repeat center;
+	background: url(https://images.unsplash.com/photo-1522125670776-3c7abb882bc2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto) no-repeat center;
 	background-size: cover;
 	height: 100%;
 }
